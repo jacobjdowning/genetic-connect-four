@@ -1,5 +1,4 @@
 # Genetic Connect Four
---------------------------------------------
 Implementation of genetic algorithms from [this paper](https://www.ijcai.org/Proceedings/89-1/Papers/122.pdf), with an evaluation algorithm from [this video](https://youtu.be/cUTMhmVh1qs?t=2872), used to train a neural network to play connect four.
 
 ## Motivation
