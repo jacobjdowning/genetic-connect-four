@@ -38,4 +38,5 @@ python play.py --help
 
 ## Credits
 [Training Feedforward Neural Networks Using Genetic Algorithms](https://www.ijcai.org/Proceedings/89-1/Papers/122.pdf) David J. Montana and Lawrence Davis
+
 [DeepMind StarCraft II Demonstration](https://youtu.be/cUTMhmVh1qs) Oriol Vinyals, David Silver
